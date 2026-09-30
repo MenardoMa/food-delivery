@@ -2,8 +2,8 @@ import Navbar from "./components/Navbar/Navbar";
 
 const App = () => {
   return (
-    <div>
-        <Navbar />
+    <div className="app">
+      <Navbar />
     </div>
   )
 }
